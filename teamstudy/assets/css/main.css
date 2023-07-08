@@ -3391,7 +3391,7 @@ body.is-ie .wrapper.fullscreen {
 
 @media screen and (max-width: 736px) {
   .wrapper.fullscreen {
-    padding: 2em 0;
+    padding: 0 0;
     min-height: 0;
   }
 
